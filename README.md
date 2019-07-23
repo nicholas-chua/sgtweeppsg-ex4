@@ -30,7 +30,7 @@ calculate(line4)
 ```
 
 ## Expected Output
-report.txt should look like this:
+Expected output should look like this:
 
 ```py
 2
