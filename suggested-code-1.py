@@ -25,4 +25,8 @@ def calculate(line):
     	b = int(line[index+1:len(line)])
     	return a/b  
 
-print(calculate(line1),calculate(line2),calculate(line3),calculate(line4))
+print(calculate(line1))
+print(calculate(line2))
+print(calculate(line3))
+print(calculate(line4))
+
