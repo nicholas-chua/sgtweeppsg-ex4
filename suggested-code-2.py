@@ -13,4 +13,7 @@ def calculate(line):
   elif '/' in line:
     return int(line[0])/int(line[2])    
 
-print(calculate(line1),calculate(line2),calculate(line3),calculate(line4))
+print(calculate(line1))
+print(calculate(line2))
+print(calculate(line3))
+print(calculate(line4))
